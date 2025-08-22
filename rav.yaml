@@ -1,0 +1,6 @@
+scripts:
+  dev:
+    - cd src
+    - "../venv/bin/python manage.py runserver 8000"
+
+###       venv/bin/python -m rav run dev

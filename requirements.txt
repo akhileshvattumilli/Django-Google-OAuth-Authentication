@@ -1,0 +1,12 @@
+Django
+requests
+python-decouple
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+#
+#    python3 -m venv path/to/venv
+ #   source path/to/venv/bin/activate
+ #   python3 -m pip install xyz
+#

@@ -1,0 +1,4 @@
+<form action="{% url 'googler:login' %}" method="POST">
+    {% csrf_token %}
+    <button type="submit">Login with google</button>
+</form>
